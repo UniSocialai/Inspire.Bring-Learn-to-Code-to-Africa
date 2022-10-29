@@ -4,6 +4,9 @@
 Bio/Intro:
 - [How I Became a Software Engineer Without a Computer Science Degree](https://youtu.be/2i3v1BbKbs8)
 
+Tour:
+- [Day In The Life of a Software Engineer](https://youtu.be/N-GJqirAltY)
+
 Stories:
 - [The Reality of Working At Google | Work Week VLOG](https://youtu.be/4NAJauoyJQk)
 
