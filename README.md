@@ -5,3 +5,6 @@
 - [Quitting A Google Product Manager Role To Do This | Dev Stories](https://youtu.be/9dBnTbXgzes)
 - [Interview with Microsoft Software Engineer With No CS Degree & No Bootcamp](https://youtu.be/xU2tB0m5tlQ)
 - [How I Became a Software Engineer Without a Computer Science Degree](https://youtu.be/2i3v1BbKbs8)
+
+Playlist:
+- [Dev Stories](https://www.youtube.com/playlist?list=PL0erUSr3_-uMzmCzGBt5Wr3Xkyh-lLNRe)
